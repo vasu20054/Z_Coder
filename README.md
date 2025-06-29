@@ -33,5 +33,3 @@ ZCoder is a web-based coding platform built to help developers practice coding, 
 - Deployed on Render / Vercel
 
 ---
-
-## 🧪 Local Development Setup
